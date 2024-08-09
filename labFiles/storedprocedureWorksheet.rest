@@ -33,6 +33,7 @@ query {
 ### Use the following code to test using GraphQL to call a stored procedure with Banana Cake Pop
 ###
 
+
 query {
   executeGetPersonByPet(pet:"Cats")
    {
